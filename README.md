@@ -187,3 +187,29 @@ from segment
 ## 📌 **Treemap Graph of RFM analysis**
 
 ![image](https://github.com/hamzaugursumer/RFM-Analysis-With-SQL/assets/127680099/25dd5f79-8854-490e-8bec-f86594d2bca3)
+
+## 📌 **Insights and Suggestions**
+
+* **Hibernating (Hibernation):** Customers in this segment are generally inactive and make rare purchases. Their last purchases happened a while ago, and special strategies may be required to re-engage them.
+
+* **At Risk:** Customers in the At Risk segment were active in the past but have shown a decline in recent times. Efforts may be needed to retain their loyalty and re-engage them.
+
+* **Loyal Customers:** This segment includes customers who shop frequently and regularly, and they are of high value to the business. It's important to reward and incentivize them.
+
+* **Promising:** Customers in the Promising segment may have made infrequent purchases, but they have significant potential. Developing strategies to encourage them to shop more frequently is crucial.
+
+* **New Customers:** This segment typically consists of customers who have made their first purchases. Attracting them and converting them into loyal customers requires specific strategies.
+
+* **Potential Loyalists:** The Potential Loyalists segment includes customers who have made a few purchases and have the potential to become loyal customers. Developing strategies to earn their loyalty is important.
+
+* **Champions**: Customers in the Champions segment are both frequent and high-value shoppers, and they are loyal to the business. Using motivating strategies to keep them satisfied and conducting more business with them is crucial.
+
+
+**Hibernating (Hibernation) Customer Segment:**
+
+* The Hibernating customer segment signifies significant potential for businesses, but it often requires special attention to increase conversion rates. Customers in this segment tend to be inactive and make infrequent purchases. Their last purchases occurred some time ago, and efforts to re-engage them can contribute to the growth of businesses.
+* Various marketing strategies can be employed to reactivate this customer segment and regain their loyalty. Here are some suggestions:
+* Special Discounts and Offers: Encourage Hibernating customers to shop again by offering them exclusive discounts and special offers. For example, you can provide greater discounts or advantageous packages compared to their previous purchases.
+* Personalized Communication: Remind customers by sending them personalized emails or notifications. Offering recommendations based on their past purchases and interests can highlight products that may capture their attention.
+* Loyalty Programs: Create loyalty programs to incentivize customers to shop more frequently. Rewarding their loyalty with loyalty points, discount coupons, or free products can be effective.
+* Collect Feedback: Gather feedback from customers to learn how you can improve your service and products. Understanding their expectations can assist in providing a better experience.
