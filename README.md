@@ -4,4 +4,5 @@
 
 * :pushpin: Dataset ; https://www.kaggle.com/nathaniel/uci-online-retail-ii-data-set
 * You can review the RFM analysis with a detailed explanation in my Python project, which involves different years of the same dataset.
-* ![RFM Analysis With Python](https://github.com/hamzaugursumer/RFMAnalysisWithPython)
+* [RFM Analysis With Python](https://github.com/hamzaugursumer/RFMAnalysisWithPython)
+
