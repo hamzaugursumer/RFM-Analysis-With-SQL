@@ -11,11 +11,11 @@
 ````sql
 -- Last invoicing date in the data set	
 select 
-	max(invoice_date) as last_invoice(today)
+	max(invoice_date) as last_invoice_today
 from e_commerce_data
 where customer_id != 'NULL'
 ````
-|   | last_invoice(today)    |
+|   | last_invoice_today     |
 |---|------------------------|
 | 1 | "2011-12-09 12:50:00"  |
         
