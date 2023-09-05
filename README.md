@@ -19,7 +19,7 @@ where customer_id != 'NULL'
 |---|------------------------|
 | 1 |   2011-12-09 12:50:00  |
         
-## * **The query containing the RFM values and scores of each customer is as follows.**
+## 📌**The query containing the RFM values and scores of each customer is as follows.**
 ````sql
 with recency as
 (
@@ -93,4 +93,4 @@ ON m.customer_id = f.customer_id
 |     9 |       15923 |     372 |        21 |   127.08 |             1 |               2 |              1 |
 |    10 |       17732 |     372 |        18 |   303.97 |             1 |               2 |              2 |
 
-* **Only the first 10 lines of 4339 lines are displayed.**
+* 📌**Only the first 10 lines of 4339 lines are displayed.**
