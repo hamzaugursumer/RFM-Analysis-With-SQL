@@ -7,7 +7,7 @@
 * [RFM Analysis With Python](https://github.com/hamzaugursumer/RFMAnalysisWithPython)
 * (There are two pages in the dataset covering different years. I utilized the second sheet that encompasses the years 2010 - 2011.)
 
-## Since the data set is old, the maximum invoice number in the data is taken as today.
+## * **Since the data set is old, the maximum invoice number in the data is taken as today.**
 ````sql
 -- Last invoicing date in the data set	
 select 
@@ -19,7 +19,7 @@ where customer_id != 'NULL'
 |---|------------------------|
 | 1 |   2011-12-09 12:50:00  |
         
-## The query containing the RFM values and scores of each customer is as follows.
+## * **The query containing the RFM values and scores of each customer is as follows.**
 ````sql
 with recency as
 (
