@@ -183,3 +183,7 @@ from segment
 |     9 |       15923 |     372 |        21 |   127.08 |             1 |               2 |              1 |     Hibernating |
 |    10 |       17732 |     372 |        18 |   303.97 |             1 |               2 |              2 |     Hibernating |
 * **Only the first 10 lines of 4339 lines are displayed.**
+
+## 📌 **Treemap Graph of RFM analysis**
+
+![image](https://github.com/hamzaugursumer/RFM-Analysis-With-SQL/assets/127680099/25dd5f79-8854-490e-8bec-f86594d2bca3)
