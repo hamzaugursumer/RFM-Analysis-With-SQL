@@ -15,6 +15,7 @@ select
 from e_commerce_data
 where customer_id != 'NULL'
 ````
-|   | last_invoice(today)|
-|---|--------------------|
-| 1 |        373         |
+|   | last_invoice(today)    |
+|---|------------------------|
+| 1 | "2011-12-09 12:50:00"  |
+        
