@@ -7,3 +7,14 @@
 * [RFM Analysis With Python](https://github.com/hamzaugursumer/RFMAnalysisWithPython)
 * (There are two pages in the dataset covering different years. I utilized the second sheet that encompasses the years 2010 - 2011.)
 
+## Since the data set is old, the maximum invoice number in the data is taken as today.
+````sql
+-- Last invoicing date in the data set	
+select 
+	max(invoice_date) as last_invoice(today)
+from e_commerce_data
+where customer_id != 'NULL'
+````
+|   | last_invoice(today)|
+|---|--------------------|
+| 1 |        373         |
