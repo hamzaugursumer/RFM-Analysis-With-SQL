@@ -186,7 +186,7 @@ from segment
 
 ## 📌 **Treemap Graph of RFM analysis**
 
-![image](https://github.com/hamzaugursumer/RFM-Analysis-With-SQL/assets/127680099/25dd5f79-8854-490e-8bec-f86594d2bca3)
+![image](RFM treemap.png)
 
 ## 📌 **Insights and Suggestions**
 
